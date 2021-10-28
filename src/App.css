@@ -1,0 +1,9 @@
+
+.wrapper{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.flex__for__body{
+    flex: 1 1 auto;
+}
